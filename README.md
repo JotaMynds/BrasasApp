@@ -102,4 +102,4 @@ La aplicación está organizada en los siguientes **12 paquetes**:
   - Empleado
   - Pedidos
   - Producto
-
+Estas pruebas unitarias estan alojadas en el directorio test, en el cual se encuentran los .java con los respectivos test unitarios
